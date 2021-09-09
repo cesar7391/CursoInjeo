@@ -1,0 +1,19 @@
+{
+  "name": "cursoinjeo",
+  "version": "1.0.0",
+  "description": "Proyecto INJEO para manejo de cursos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "injeo",
+    "nodejs"
+  ],
+  "author": "Cesar Eli Flores Lopez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
